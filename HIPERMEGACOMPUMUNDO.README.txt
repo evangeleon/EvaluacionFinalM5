@@ -1,0 +1,48 @@
+                                ================================================================================
+                                                               HIPERMEGACOMPUMUNDO
+                                ================================================================================
+  Es una plataforma web de soluciones tecnologicas e informacion,diseñada para administrar los distintos procesos,operaciones de negocio, planificación de actividades y control de ejecución que se se suscitan a nivel empresarial para la prevencion de riesgo y la seguridad del recurso humano.
+
+  Programa altamente recomendado para empresas que carecen de sistemas que organizen de manera automatica, ordenada, intuitiva y segura todos los hechos e informacion que se generan de manera continua en las distintas actividades cotidianas del mundo laboral.
+
+  Esta pagina ha sido diseñada con un conjunto de tecnologias de avanzada que otorgan la mejor asistencia tanto para la empresa como para los diferentes tipos de usuarios administrativos,profesionales y clientes,brindando de forma eficaz el servicio para el cual fue creada. 
+
+  Esta Aplicacion web despliega las siguientes paginas :
+
+- Inicio
+- Contacto
+- Crear Capacitación
+- Listar Capacitación
+- Login
+- Listado de Usuarios
+- Crear Usuario
+- Editar Cliente
+- Editar Administrativo
+- Editar Profesional
+- Listado de Visitas
+- Responder Checklist
+- Listado Pago
+- Crear Pago
+
+=======================================================================================================================================================
+=======================================================================================================================================================
+
+
+Autores
+------------------------
+
+Grupo 1:
+-NIcolas Bonilla/https://github.com/Nicobonilla/finalM5.git
+-Patricio Sanhueza/https://github.com/PATR1C1O-SANHUEZA/EvaluacionFinalM5.git
+-Evange Leon/https://github.com/evangeleon/EvaluacionFinalM5.git
+-Juan Aviles/https://github.com/JVAVILES/FinalM5.git
+
+
+
+
+Awakelab
+Talento Digital 
+
+
+     Se reserva el derecho de autor solo para fines educativos
+     
